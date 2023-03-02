@@ -27,6 +27,7 @@ Mechanical:
 * 16x M3x8mm Countersink screws (subject to change)
 * 12x M3x12mm Countersink screws (subject to change)
 * 3x M3x35mm Countersink screws
+* 20x M3 Lock nuts
 * 30x M4x20mm Countersink screws
 
 Electrical:
