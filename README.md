@@ -19,6 +19,23 @@ Sensing capabilities are currently limited to:
 ## Bill of Materials
 To be updated
 
+Mechanical:
+* 2x 1m aluminium pipe
+* 6x 6810RS Deep Groove Ball Bearing
+* 6x 6000RS Deep Groove Ball Bearing
+* 44x M3x16mm Countersink screws (subject to change)
+* 16x M3x8mm Countersink screws (subject to change)
+* 12x M3x12mm Countersink screws (subject to change)
+* 3x M3x35mm Countersink screws
+* 30x M4x20mm Countersink screws
+
+Electrical:
+* 6x DFRobot FIT185, 12V DC motor, 45kg.cm, w. encoder
+* 4x 4401 Stepper Motor
+* 4x A4988 Stepper Motor Driver
+* 1x Teensy 4.1
+* 1x LSM6DSOX + LIS3MDL IMU and magnetometer module
+
 ## Future improvements
 Future additions will include:
 * Manipulator
