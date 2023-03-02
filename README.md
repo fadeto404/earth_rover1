@@ -27,6 +27,7 @@ Mechanical:
 * 3x M3x35mm Countersink screws
 * 20x M3 Lock nuts
 * 30x M4x20mm Countersink screws
+
 To be continued...
 
 Electrical:
@@ -35,6 +36,7 @@ Electrical:
 * 4x A4988 Stepper Motor Driver
 * 1x Teensy 4.1
 * 1x LSM6DSOX + LIS3MDL IMU and magnetometer module
+
 To be continued...
 
 ## Future improvements
