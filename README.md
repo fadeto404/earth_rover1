@@ -17,8 +17,6 @@ Sensing capabilities are currently limited to:
 * Motor current
 
 ## Bill of Materials
-To be updated
-
 Mechanical:
 * 2x 1m aluminium pipe
 * 6x 6810RS Deep Groove Ball Bearing
@@ -29,6 +27,7 @@ Mechanical:
 * 3x M3x35mm Countersink screws
 * 20x M3 Lock nuts
 * 30x M4x20mm Countersink screws
+To be continued...
 
 Electrical:
 * 6x DFRobot FIT185, 12V DC motor, 45kg.cm, w. encoder
@@ -36,6 +35,7 @@ Electrical:
 * 4x A4988 Stepper Motor Driver
 * 1x Teensy 4.1
 * 1x LSM6DSOX + LIS3MDL IMU and magnetometer module
+To be continued...
 
 ## Future improvements
 Future additions will include:
